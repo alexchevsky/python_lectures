@@ -17,17 +17,17 @@ book = 'My favourite book is "The Lord of the Rings"'
 book = 'My favourite book is "The Lord of the Rings"'
 # print(book[10::])
 
-# измерить длинну строки
-print('Длина строки: ' + str(len(book)))
+# # измерить длинну строки
+# print('Длина строки: ' + str(len(book)))
 
-# умножение текста
-print('-' * 30)
+# # умножение текста
+# print('-' * 30)
 
-# найти подстроку с строке
-print('@' in book)
+# # найти подстроку с строке
+# print('@' in book)
 
-print(book.upper())
-print(book.lower())
+# print(book.upper())
+# print(book.lower())
 
 # подставлять в текст значение переменных
 template = 'Привет, username. Спишь?'
@@ -36,12 +36,17 @@ name = 'Сергей'
 # Привет, Алексей. Спишь?
 
 #print('Привет, ' + name + '. Спишь?')
-print('Привет, {}. Спишь?'.format(name))
-print(f'Привет, {name}. Спишь?')
+# print('Привет, {}. Спишь?'.format(name))
+# print(f'Привет, {name}. Спишь?')
 
-print(f"""Привет, {name}!  Как дела?
+txt = f"""Привет, {name}! Как дела?
 Да все отлично! Вот, учу Python!
-Ну ты молодец!""")
+Ну ты молодец!"""
+
+first_element = txt.split(' ')[0]
+
+print(first_element)
+
 
 print()
 print()
