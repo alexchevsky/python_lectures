@@ -1,0 +1,149 @@
+{
+    "tag": "install",
+    "host": "lax-attribution-19",
+    "nonce": "30jozhklj",
+    "topic": "install",
+    "context": {
+        "adid": "abc123",
+        "callback": {
+            "Data": {
+                "Mcc": "293",
+                "Mnc": "40",
+                "Adid": "abc123",
+                "SkTs": "0001-01-01T00:00:00Z",
+                "Nonce": "7z3jxacki",
+                "OsName": "android",
+                "Random": "350722973",
+                "Region": "si",
+                "AppName": "com.srgstudios.inkinc",
+                "Country": "si",
+                "CpuType": "arm64-v8a",
+                "OsBuild": "QP1A.190711.020",
+                "Reftags": {
+                    "cVX4xHr17z1NK": {},
+                    "vHvQhUHoulN5u": {}
+                },
+                "Tracker": "106701o6",
+                "ApiLevel": "29",
+                "AppToken": "9bsdbwtdrb2",
+                "Language": "sl",
+                "Platform": 1,
+                "Referrer": "adjust_external_click_id=applovin_0",
+                "ClickTime": "2023-04-12T18:05:17Z",
+                "ClientSdk": "unity4.30.0@android4.30.0",
+                "FraudKind": 6,
+                "IpAddress": "109.182.0.01",
+                "OsVersion": "10",
+                "UserAgent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A750FN Build/QP1A.190711.020)",
+                "AppVersion": "2.2.14",
+                "DeviceName": "GalaxyA7(2018)",
+                "DeviceType": "phone",
+                "GoogleAdid": "",
+                "ReceivedAt": "2023-04-13T05:01:01.47523652Z",
+                "ZoneOffset": {
+                    "Int": 120,
+                    "Valid": true
+                },
+                "DeviceModel": "unknown",
+                "Environment": "production",
+                "InstalledAt": "2023-04-13T05:01:01Z",
+                "ActivityKind": "install",
+                "HardwareName": "QP1A.190711.020.A750FNXXU5CVG2",
+                "Manufacturer": "Samsung",
+                "ReferenceTag": "c1GOcL4JRgNWA",
+                "SessionCount": "1",
+                "CreatedAtTime": "2023-04-13T05:01:01Z",
+                "DeviceAtlasId": 43067415,
+                "ReinstalledAt": "0001-01-01T00:00:00Z",
+                "UninstalledAt": "0001-01-01T00:00:00Z",
+                "EngagementType": 10,
+                "InstallTracker": "mlzuiy1",
+                "SKRegisteredAt": "0001-01-01T00:00:00Z",
+                "AppVersionShort": "unknown",
+                "LastSessionTime": "2023-04-13T05:01:01Z",
+                "TrackingEnabled": "1",
+                "ApiPartnerParams": {
+                    "install_referrer_referral_time": "1681322694",
+                    "install_referrer_install_begin_time": "1681322711",
+                    "install_referrer_install_finish_time": "1681322802"
+                },
+                "ConnectivityType": "1",
+                "FirstSessionTime": "2023-04-13T05:01:01Z",
+                "PartnerParameters": {
+                    "applovin_click_id": "102e75f1ad1fb9f49c",
+                    "external_click_id": "applovin_2c42af7926a4a463692859ce181c96b07298d1e9"
+                },
+                "SKTimerExpiration": "0001-01-01T00:00:00Z",
+                "GlobalSessionCount": 1,
+                "SkSettingsUpdatedAt": "0001-01-01T00:00:00Z",
+                "AttributionUpdatedAt": "0001-01-01T00:00:00Z",
+                "ClickAttributionWindow": {
+                    "Valid": true,
+                    "Duration": 604800000000000
+                },
+                "SubscriptionRefundedAt": "0001-01-01T00:00:00Z",
+                "SubscriptionCancelledAt": "0001-01-01T00:00:00Z",
+                "SubscriptionPurchasedAt": "0001-01-01T00:00:00Z",
+                "DynamicCallbackParameters": {
+                    "external_click_id": "applovin_2c42af7926a4a463692859ce181c96b07298d1e9"
+                },
+                "SkConversionValueUpdatedAt": "0001-01-01T00:00:00Z",
+                "SubscriptionExpirationTime": "0001-01-01T00:00:00Z",
+                "FingerprintAttributionWindow": {
+                    "Valid": true,
+                    "Duration": 86400000000000
+                },
+                "LastAttributionExpirationTime": "0001-01-01T00:00:00Z",
+                "InstallEngagementPartnerParams": {
+                    "applovin_click_id": "102e75f1ad1fb9f49c",
+                    "external_click_id": "applovin_0"
+                },
+                "SKConversionValueWindowExpiration": "0001-01-01T00:00:00Z",
+                "SkConversionValueOnDeviceUpdatedAt": "0001-01-01T00:00:00Z"
+            },
+            "Label": "applovin",
+            "CreatedAt": "2023-04-13T05:01:31.478894682Z",
+            "Regulator": {
+                "Cost": false,
+                "Reftags": false,
+                "Revenue": true,
+                "AppToken": false,
+                "EventName": false,
+                "PushToken": false,
+                "PartnerType": 1,
+                "IsAttributed": true,
+                "GeminiApproved": false,
+                "TikTokApproved": false,
+                "LastTrackerName": false,
+                "PublisherParams": false,
+                "TencentApproved": false,
+                "TwitterApproved": false,
+                "ApiPartnerParams": false,
+                "ParameterMapping": null,
+                "SdkPartnerParams": false,
+                "SnapchatApproved": false,
+                "GoogleAdsApproved": false,
+                "InstallTrackerName": false,
+                "OutdatedTrackerName": false,
+                "RokuOneViewApproved": false,
+                "DynamicCallbackParams": false,
+                "AppleSearchAdsApproved": false,
+                "TwitterDataSharingDisallowed": false,
+                "InstallEngagementPartnerParams": true
+            }
+        },
+        "consumer": "0",
+        "app_token": "9bsdbwtdrb2",
+        "device_ids": {
+            "gps_adid": ""
+        },
+        "time_spent": 27341,
+        "event_token": "",
+        "request_url": "",
+        "tracker_token": "106701o6",
+        "response_status": 200
+    },
+    "message": "callback succeeded",
+    "service": "callback_worker",
+    "timestamp": "2023-04-13T05:01:31.588450064Z"
+}
