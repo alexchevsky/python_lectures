@@ -1,0 +1,5 @@
+{"timestamp": "2023-08-18 09:15:23", "user_id": "U12345", "item": "The Great Gatsby", "quantity": 1, "total_price": "$20.00"}
+{"timestamp": "2023-08-18 10:42:56", "user_id": "U12346", "item": "Harry Potter and the Sorcerer's Stone", "quantity": 2, "total_price": "$50.00"}
+{"timestamp": "2023-08-18 12:10:05", "user_id": "U12347", "item": "1984", "quantity": 1, "total_price": "$20.00"}
+{"timestamp": "2023-08-18 14:23:47", "user_id": "U12348", "item": "The Catcher in the Rye", "quantity": 3, "total_price": "$60.00"}
+{"timestamp": "2023-08-18 16:55:12", "user_id": "U12349", "item": "The Da Vinci Code", "quantity": 2, "total_price": "$40.00"}
