@@ -1,0 +1,1002 @@
+client_name,timestamp,store_id,review,rating
+Monique Skinner,2023-09-04 19:15:08,485,Very dissatisfied!,1
+Lisa Steele,2023-09-04 18:42:25,421,Had higher expectations.,2
+Stephanie Rowe,2023-09-02 21:11:19,418,I regret coming here.,1
+Michael Christensen,2023-09-03 07:29:26,40,I regret coming here.,1
+Cynthia Elliott,2023-09-04 04:21:59,335,Perfect ambiance!,5
+Anthony Hicks,2023-09-02 06:56:16,165,Frustrating experience.,1
+Robert Riggs,2023-09-03 20:06:58,188,Could be better.,2
+Kathy Weaver,2023-09-01 21:25:23,240,I regret coming here.,1
+Isaac Roberts,2023-09-01 09:39:00,168,Horrible service!,1
+Steve Martinez,2023-09-01 03:22:23,544,Good value for money.,4
+Jacqueline Owens,2023-09-02 13:00:46,34,Might come back.,3
+Holly Stone,2023-09-01 14:08:34,310,Expected better.,2
+Jason Rosales,2023-09-03 01:50:05,324,Very dissatisfied!,1
+Melinda Parker,2023-09-04 10:27:36,163,Okay for the price.,3
+Anthony Stark DDS,2023-09-02 01:48:09,91,Service was decent.,3
+Louis Williams,2023-09-01 03:16:41,128,Service was decent.,3
+Tony Kerr,2023-09-03 11:57:03,263,Impressive attention to detail.,5
+Michelle Barrera,2023-09-01 04:52:01,469,I'm not impressed.,2
+Samantha Wells,2023-09-02 08:05:50,376,Pretty good!,4
+Brian Glass,2023-09-03 00:28:27,522,Impressive attention to detail.,5
+Ryan Rangel,2023-09-03 17:10:54,283,Typical visit.,3
+Steven Gardner,2023-09-01 16:32:19,503,Excellent service!,5
+Lisa Rose,2023-09-03 02:36:29,161,Had higher expectations.,2
+Larry Ramsey,2023-09-03 07:24:10,96,Pretty good!,4
+Regina Black,2023-09-02 07:53:44,207,I had a pleasant time.,4
+Mark Young PhD,2023-09-03 18:45:02,117,Perfect ambiance!,5
+Melissa Stein,2023-09-04 21:50:37,548,Average service.,3
+Martha Hanson,2023-09-04 22:42:15,49,A bit disappointing.,2
+John Holloway,2023-09-04 08:55:25,376,Wasn't disappointed but wasn't impressed either.,3
+Cynthia Pearson,2023-09-04 01:35:30,315,I had a pleasant time.,4
+Zachary Villa,2023-09-04 13:48:54,250,Waste of time.,1
+Kimberly Stephenson,2023-09-02 04:52:23,43,Had higher expectations.,2
+Kevin Bolton DDS,2023-09-02 02:43:32,513,I regret coming here.,1
+Jodi Duncan,2023-09-02 15:39:22,103,Good value for money.,4
+Gerald Delacruz,2023-09-01 07:37:35,190,Highly recommended!,5
+Anthony Stark DDS,2023-09-02 14:12:50,486,Typical visit.,3
+Katherine Garcia,2023-09-02 18:54:16,219,Impressive attention to detail.,5
+Patricia Barnes,2023-09-01 05:20:00,546,I'd recommend this to a friend.,4
+Tammie Torres,2023-09-04 13:41:47,457,The worst experience ever!,1
+Anthony Fox,2023-09-04 00:15:26,528,I'd recommend this to a friend.,4
+Heather Tucker,2023-09-02 18:08:01,173,Typical visit.,3
+Eddie Floyd,2023-09-03 02:53:27,537,Might come back.,3
+Cheryl Sanders,2023-09-04 16:14:38,399,Expected better.,2
+Cynthia Brown,2023-09-02 16:12:32,54,Typical visit.,3
+Joseph Green,2023-09-02 09:00:51,486,"Nothing to complain about, but nothing great either.",3
+Mr. William Logan,2023-09-03 14:50:37,520,Average service.,3
+Victor Guerra,2023-09-02 06:13:23,239,"Staff was okay, service wasn't.",2
+Melissa Dunn,2023-09-02 09:44:58,529,I'll definitely be back.,5
+Katie Cooper,2023-09-01 16:32:32,379,Frustrating experience.,1
+Nicole Phillips,2023-09-03 22:26:35,442,It was okay.,3
+Stephen Delgado,2023-09-04 04:02:32,371,Best experience in a while!,5
+Isaac Roberts,2023-09-04 14:24:46,494,Good value for money.,4
+Stephanie Rowe,2023-09-04 00:15:31,440,Expected better.,2
+Justin Roberts,2023-09-04 07:24:39,325,Disastrous visit!,1
+Briana Dudley,2023-09-02 03:43:36,76,Neither good nor bad.,3
+Danielle Henry,2023-09-03 17:58:11,262,Waste of time.,1
+Cheryl Whitney,2023-09-02 08:05:06,91,Expected better.,2
+Kelly Chan,2023-09-01 22:19:35,320,I'm satisfied.,4
+Michelle Humphrey,2023-09-03 14:29:47,529,Very dissatisfied!,1
+Stephanie Smith,2023-09-01 14:31:00,293,Frustrating experience.,1
+Renee Sullivan,2023-09-03 15:11:02,433,I'll definitely be back.,5
+Rose Weaver,2023-09-01 20:51:34,550,A bit disappointing.,2
+Shannon Olson,2023-09-04 22:43:33,470,Better than I expected!,4
+Stephen King,2023-09-01 17:59:54,353,I'm satisfied.,4
+Denise Fernandez,2023-09-04 03:43:25,174,The worst experience ever!,1
+Sandra Bowen,2023-09-02 23:50:37,261,Could be better.,2
+Louis Williams,2023-09-02 15:29:35,385,Disastrous visit!,1
+Heather Barry,2023-09-02 21:12:35,519,The staff went above and beyond.,5
+Alexander Tucker,2023-09-04 01:08:55,46,Mediocre at best.,2
+Tina Mayo,2023-09-03 11:08:12,465,Horrible service!,1
+James Brown,2023-09-04 14:27:38,491,Exceptional service!,5
+Justin Flores,2023-09-03 10:51:44,104,Quite enjoyable!,4
+Pamela Barrett,2023-09-02 14:20:43,197,I had a pleasant time.,4
+Jennifer Martin,2023-09-03 17:17:46,81,Might come back.,3
+Gloria Ramos,2023-09-04 10:10:31,123,Could be better.,2
+Annette Harvey,2023-09-04 20:46:09,156,Might come back.,3
+Gary Parsons,2023-09-02 16:53:22,17,I'll definitely be back.,5
+Gina Ray,2023-09-03 12:44:08,471,Friendly staff.,4
+Lisa Perez,2023-09-02 03:04:56,501,I had a pleasant time.,4
+Beverly James,2023-09-04 23:53:01,115,I had a pleasant time.,4
+Tara Flynn,2023-09-02 06:38:41,277,Terrible ambiance.,1
+Shannon Orr,2023-09-01 16:09:45,230,Will come again.,4
+Lindsay Valenzuela,2023-09-01 21:40:51,365,Exceptional service!,5
+Mrs. Bethany Hamilton,2023-09-03 21:56:48,530,Waste of time.,1
+Michael Johnson,2023-09-02 01:16:51,1,Expected better.,2
+Pamela Davis,2023-09-01 01:14:55,384,Won't be my first choice next time.,2
+Anthony Avila,2023-09-01 05:51:09,371,The staff went above and beyond.,5
+Matthew Walker,2023-09-01 14:17:52,34,It was fine.,3
+Mr. William Logan,2023-09-03 03:07:37,495,Will come again.,4
+Ryan Oconnor,2023-09-03 21:03:38,12,Might come back.,3
+Eddie Floyd,2023-09-02 09:46:16,201,The worst experience ever!,1
+Jesus Griffin,2023-09-04 20:09:58,25,Mediocre at best.,2
+Laura Obrien,2023-09-02 22:52:10,24,Service was swift.,4
+Samuel Cabrera,2023-09-04 20:46:07,502,It was fine.,3
+Andrew Larsen,2023-09-04 06:56:41,379,A bit disappointing.,2
+Daniel Anderson,2023-09-01 15:01:18,397,I'm not impressed.,2
+Tricia Powers,2023-09-02 03:11:24,282,I'm satisfied.,4
+Mr. Matthew Spears,2023-09-02 17:07:30,47,Very dissatisfied!,1
+Jennifer Stark,2023-09-02 07:13:33,242,Disastrous visit!,1
+Michelle Williams,2023-09-03 21:40:22,518,Will come again.,4
+Brandon Nichols,2023-09-02 03:01:52,72,"Staff was okay, service wasn't.",2
+Edward Perry,2023-09-04 15:01:04,423,Very dissatisfied!,1
+Jared Hodge,2023-09-03 18:12:58,329,Not great.,2
+Theresa Hale,2023-09-03 13:36:43,399,Not great.,2
+Jennifer Adams,2023-09-04 19:53:10,247,"Staff was okay, service wasn't.",2
+Evan Williams,2023-09-03 18:13:44,205,Won't come again.,1
+Cory Hines,2023-09-03 00:03:34,469,Perfect ambiance!,5
+Jason Oneill,2023-09-02 21:43:45,217,Neither good nor bad.,3
+Matthew Carson,2023-09-01 21:57:17,382,Okay for the price.,3
+Ryan Nelson,2023-09-03 20:56:11,429,Friendly staff.,4
+Mr. Matthew Spears,2023-09-03 20:56:31,80,Very dissatisfied!,1
+Gary Newton,2023-09-03 09:26:25,511,Impressive attention to detail.,5
+Paul Benson,2023-09-02 09:03:27,210,Expected better.,2
+Angela Sanchez,2023-09-02 07:58:11,517,Pretty good!,4
+Anthony Stark DDS,2023-09-04 02:12:04,372,Quite enjoyable!,4
+Diane Walker,2023-09-01 05:02:43,452,Might come back.,3
+Joseph Moss,2023-09-01 17:16:13,250,Average service.,3
+Kenneth Ramirez,2023-09-03 04:38:26,395,Disastrous visit!,1
+Mr. Gerald Ramirez Jr.,2023-09-04 09:07:11,199,Very happy!,5
+Christopher Reid,2023-09-04 09:40:26,360,"Nothing to complain about, but nothing great either.",3
+Nicole Fuentes,2023-09-03 22:50:44,516,It was fine.,3
+Sylvia Jones,2023-09-03 08:37:36,548,I'm not impressed.,2
+James Knight,2023-09-03 22:46:41,104,I had a pleasant time.,4
+Jack Frederick,2023-09-01 17:51:26,381,"Nothing to complain about, but nothing great either.",3
+Kayla Kelly,2023-09-03 21:16:16,247,I'm not impressed.,2
+Theresa Hale,2023-09-02 02:07:01,7,Exceptional service!,5
+Tricia Powers,2023-09-03 18:39:49,529,Highly recommended!,5
+Brandon Nichols,2023-09-03 07:12:28,365,It was okay.,3
+Crystal Moore,2023-09-04 18:58:39,190,"Staff was okay, service wasn't.",2
+Travis Vargas,2023-09-04 11:18:16,112,A bit disappointing.,2
+Patricia Thornton,2023-09-01 07:12:32,440,Mediocre at best.,2
+Douglas Mccann,2023-09-02 03:23:19,5,I'm not impressed.,2
+Veronica Rodriguez,2023-09-03 02:20:29,513,Service was swift.,4
+Michael Cook,2023-09-03 21:25:06,163,Horrible service!,1
+Dylan Davis,2023-09-03 01:28:13,239,Service was decent.,3
+Stacy Marquez,2023-09-04 13:28:22,444,The worst experience ever!,1
+Daniel Hicks,2023-09-02 12:02:37,105,Horrible service!,1
+Isaac Roberts,2023-09-03 12:52:14,546,"Staff was okay, service wasn't.",2
+Michelle May,2023-09-02 06:44:26,331,Very happy!,5
+Alison Bradley,2023-09-03 18:24:39,358,I had a pleasant time.,4
+Dominic Gilbert,2023-09-04 20:32:37,284,"Staff was okay, service wasn't.",2
+Stephen Delgado,2023-09-01 02:58:28,233,Good value for money.,4
+Katie Cooper,2023-09-03 15:34:54,62,Excellent service!,5
+Daniel Anderson,2023-09-01 15:16:44,466,It was fine.,3
+Paul Torres,2023-09-01 02:16:13,42,Not great.,2
+Duane James,2023-09-01 21:52:34,298,Typical visit.,3
+Elizabeth Gonzalez,2023-09-04 10:08:07,80,Highly recommended!,5
+Miss Vanessa Hernandez,2023-09-03 22:46:32,315,Pretty good!,4
+Tammy Simpson,2023-09-02 07:48:49,161,Unpleasant staff.,1
+Dominic Gilbert,2023-09-04 09:27:54,179,Best experience in a while!,5
+Steven Pennington,2023-09-03 17:30:38,248,Average service.,3
+Jennifer Fletcher,2023-09-01 01:01:29,239,Impressive attention to detail.,5
+Regina George,2023-09-02 23:05:54,482,Disastrous visit!,1
+William Phillips,2023-09-03 22:51:49,488,Typical visit.,3
+Kelly Jimenez,2023-09-02 15:39:01,34,Mediocre at best.,2
+Andrew Brennan,2023-09-04 04:22:13,208,Service was decent.,3
+Rose Weaver,2023-09-01 13:28:00,171,Best experience in a while!,5
+Zachary Villa,2023-09-03 11:30:29,57,Terrible ambiance.,1
+Tammy Rodriguez,2023-09-04 15:34:18,153,Very dissatisfied!,1
+Douglas Brown,2023-09-01 00:10:09,156,Mediocre at best.,2
+Amanda Davis,2023-09-04 13:42:45,327,Horrible service!,1
+Joshua Williams,2023-09-03 18:47:34,268,Had higher expectations.,2
+Ian Nelson,2023-09-02 18:32:20,135,It was okay.,3
+Heather Cook,2023-09-01 04:51:42,80,Disastrous visit!,1
+David Dickson,2023-09-01 14:30:52,420,Will come again.,4
+Thomas Hughes,2023-09-03 04:30:13,268,I regret coming here.,1
+Briana Dudley,2023-09-04 18:44:03,60,A bit disappointing.,2
+Darryl Brown,2023-09-04 14:55:55,155,Good value for money.,4
+Samantha Smith,2023-09-04 10:32:44,409,Horrible service!,1
+Christopher Williams,2023-09-03 14:12:32,501,I'll definitely be back.,5
+Annette Harvey,2023-09-04 07:34:13,512,I'd recommend this to a friend.,4
+Travis Johnson,2023-09-02 22:44:56,417,Could be better.,2
+Lisa Rose,2023-09-03 01:16:31,126,Had higher expectations.,2
+Melissa Whitehead,2023-09-01 04:41:15,237,Not great.,2
+Kathryn Henry DVM,2023-09-02 05:44:08,62,Service was decent.,3
+David Perez,2023-09-01 19:00:25,305,Excellent service!,5
+Zachary Singh,2023-09-04 16:18:03,133,Expected better.,2
+Heather Barry,2023-09-04 06:55:42,200,Couldn't have been better!,5
+Rose Weaver,2023-09-03 20:41:44,112,"Nothing to complain about, but nothing great either.",3
+Michael Scott,2023-09-03 02:49:37,477,"Nothing to complain about, but nothing great either.",3
+Shannon Smith,2023-09-01 09:03:29,70,Service was swift.,4
+Stephanie Rowe,2023-09-01 05:10:39,80,Typical visit.,3
+Mandy Jordan,2023-09-03 05:02:56,6,Pretty good!,4
+Elizabeth Gonzalez,2023-09-03 13:00:47,483,Pretty good!,4
+Craig Dalton,2023-09-02 15:11:42,223,Couldn't have been better!,5
+Ashley Sheppard,2023-09-04 15:37:35,360,Waste of time.,1
+Dominic Gilbert,2023-09-03 13:01:29,135,Expected better.,2
+Tammy Gonzalez,2023-09-01 23:57:38,353,Not great.,2
+Brian Glass,2023-09-02 11:40:47,143,Mediocre at best.,2
+Ryan Kim,2023-09-01 19:46:06,254,Good value for money.,4
+Benjamin Stewart,2023-09-03 19:11:52,516,I regret coming here.,1
+Mike Suarez,2023-09-02 10:49:46,28,Impressive attention to detail.,5
+Elizabeth Gonzalez,2023-09-02 04:12:22,528,I'm satisfied.,4
+Jeffrey White,2023-09-02 00:16:51,373,Waste of time.,1
+Gina Rivera,2023-09-03 04:01:20,187,Friendly staff.,4
+Randy Clarke,2023-09-04 03:40:17,22,Very dissatisfied!,1
+Tammy Wolf,2023-09-02 00:02:54,438,Will come again.,4
+Joshua Haas,2023-09-03 21:00:53,170,Very happy!,5
+Duane James,2023-09-01 03:10:50,467,Very happy!,5
+Stephanie Jones,2023-09-01 09:51:12,155,Frustrating experience.,1
+Natalie Terry,2023-09-02 08:15:11,276,Highly recommended!,5
+Jack Frederick,2023-09-03 18:16:58,211,Very dissatisfied!,1
+Thomas Green,2023-09-02 15:17:25,123,Frustrating experience.,1
+Dylan Silva,2023-09-04 05:06:05,466,Impressive attention to detail.,5
+Matthew Ayala,2023-09-03 12:14:35,544,Excellent service!,5
+Nicole Avila,2023-09-04 02:25:10,61,Average service.,3
+Paul Carter,2023-09-02 03:26:00,114,I'll definitely be back.,5
+Erin Ward,2023-09-03 19:26:15,535,Mediocre at best.,2
+Christy Mendoza,2023-09-02 21:47:51,397,Not great.,2
+Nathan Powell,2023-09-01 05:23:36,33,Impressive attention to detail.,5
+Cheryl Sanders,2023-09-04 06:33:01,40,Had higher expectations.,2
+Brian Williams,2023-09-02 04:29:52,478,Average service.,3
+Stephen Murphy,2023-09-01 15:38:32,86,Very happy!,5
+Jennifer Wilson,2023-09-04 04:31:28,131,Unpleasant staff.,1
+Joshua Edwards,2023-09-01 04:46:32,340,Very dissatisfied!,1
+Robert Fowler,2023-09-01 21:04:41,128,The staff went above and beyond.,5
+Christine Wagner,2023-09-02 05:14:38,307,Unpleasant staff.,1
+Michelle Orozco,2023-09-04 11:54:28,305,The staff went above and beyond.,5
+Felicia Baird,2023-09-02 23:07:45,528,Had higher expectations.,2
+David Escobar,2023-09-01 20:42:43,75,Pretty good!,4
+David Holt,2023-09-01 07:11:35,535,It was okay.,3
+Douglas Brown,2023-09-04 12:39:24,139,Impressive attention to detail.,5
+Margaret Perry,2023-09-01 19:25:04,137,Very dissatisfied!,1
+John Koch,2023-09-01 18:08:22,448,Not great.,2
+Nathan Lucas,2023-09-01 12:04:32,465,Mediocre at best.,2
+Mary Wright,2023-09-04 16:18:10,343,Average service.,3
+Gloria Ramos,2023-09-03 01:09:11,349,Impressive attention to detail.,5
+Tricia Kelly,2023-09-02 17:28:37,88,I'd recommend this to a friend.,4
+Anthony Hicks,2023-09-02 03:55:01,3,Unpleasant staff.,1
+Daniel Jones,2023-09-01 09:15:02,461,Horrible service!,1
+Jennifer Miller,2023-09-04 01:50:03,92,Took too long.,2
+Matthew Walker,2023-09-02 14:25:02,165,The staff went above and beyond.,5
+Bruce Rogers,2023-09-03 17:58:42,115,Exceptional service!,5
+Paul Benson,2023-09-02 11:44:43,10,"Nothing to complain about, but nothing great either.",3
+Nancy Callahan,2023-09-03 22:50:35,533,Had higher expectations.,2
+Kimberly Patel,2023-09-03 16:00:02,336,I'm satisfied.,4
+Peter Wagner,2023-09-03 10:32:38,222,Wasn't disappointed but wasn't impressed either.,3
+Shannon Olson,2023-09-02 10:23:24,50,Had higher expectations.,2
+Kenneth Smith,2023-09-03 20:00:35,88,Waste of time.,1
+Daniel Schaefer,2023-09-02 03:15:19,23,Service was swift.,4
+Anthony Fox,2023-09-03 03:50:25,386,Frustrating experience.,1
+Pamela Barrett,2023-09-04 23:16:13,132,Very dissatisfied!,1
+Sharon Davis,2023-09-02 10:30:46,93,Frustrating experience.,1
+Shawn Hughes,2023-09-04 04:26:14,9,I'm not impressed.,2
+Tanya Calhoun,2023-09-02 18:26:57,132,Disastrous visit!,1
+Alexis Miller,2023-09-04 16:33:29,124,Unpleasant staff.,1
+Jay Mcgee,2023-09-03 23:01:33,72,Horrible service!,1
+Judy Howell,2023-09-01 09:05:12,409,I had a pleasant time.,4
+James Nelson,2023-09-03 06:59:34,360,Might come back.,3
+Amy Daniels,2023-09-02 22:20:20,519,Pretty good!,4
+Mary Perez,2023-09-01 03:42:14,158,Very dissatisfied!,1
+Kelly Foster,2023-09-01 12:37:02,111,I'd recommend this to a friend.,4
+Sarah Mann,2023-09-02 18:54:14,3,Pretty good!,4
+Courtney Johnson,2023-09-04 05:13:25,449,Pretty good!,4
+Melinda Parker,2023-09-02 18:51:18,321,Highly recommended!,5
+Jacob Hernandez,2023-09-01 19:11:07,311,Very happy!,5
+Alexis Roberson,2023-09-02 15:50:40,90,"Nothing to complain about, but nothing great either.",3
+Megan Carter,2023-09-01 18:21:44,415,Very dissatisfied!,1
+Anthony Woods,2023-09-02 04:12:26,407,Typical visit.,3
+Mark Cardenas,2023-09-01 18:01:58,229,Terrible ambiance.,1
+Beverly James,2023-09-01 09:58:45,305,Very dissatisfied!,1
+Stephanie Bell,2023-09-02 10:20:43,375,Couldn't have been better!,5
+Bethany Marshall,2023-09-02 15:16:01,443,Excellent service!,5
+Michael Tran,2023-09-04 15:19:15,492,Not great.,2
+Tracey Gutierrez,2023-09-01 05:49:50,10,Exceptional service!,5
+Shelby Hall,2023-09-04 18:55:34,547,Neither good nor bad.,3
+Stacy Dawson,2023-09-03 03:06:26,513,Will come again.,4
+David Hughes,2023-09-04 19:23:54,391,Service was swift.,4
+Gerald Trevino,2023-09-01 10:04:53,188,Highly recommended!,5
+Deborah Collins,2023-09-02 01:50:00,488,Won't come again.,1
+Carolyn Myers,2023-09-03 15:43:47,193,Typical visit.,3
+Jeremy Jones,2023-09-01 20:22:08,427,Disastrous visit!,1
+Beverly James,2023-09-01 04:40:32,239,Very dissatisfied!,1
+Stacy Dawson,2023-09-01 10:00:29,543,Very dissatisfied!,1
+David Perez,2023-09-03 14:25:10,143,Couldn't have been better!,5
+Jeffrey Delgado,2023-09-03 03:37:45,383,The staff went above and beyond.,5
+Corey Berg,2023-09-04 23:20:50,138,The worst experience ever!,1
+Dennis Dunn,2023-09-01 07:10:17,185,The staff went above and beyond.,5
+Danny Campos,2023-09-04 23:36:20,99,Took too long.,2
+Sue Garcia,2023-09-01 11:22:38,388,Excellent service!,5
+Anthony Hicks,2023-09-02 22:29:14,122,Mediocre at best.,2
+Erin Ward,2023-09-04 08:40:49,427,The staff went above and beyond.,5
+David Holt,2023-09-02 12:55:55,245,Horrible service!,1
+Joseph Krueger,2023-09-01 13:33:56,142,Impressive attention to detail.,5
+Beverly James,2023-09-04 01:18:41,421,Typical visit.,3
+Joseph Green,2023-09-01 10:54:00,131,I regret coming here.,1
+Sandra Taylor,2023-09-03 10:10:03,319,Disastrous visit!,1
+Lee Peterson,2023-09-03 15:06:30,455,Expected better.,2
+Brandy Medina,2023-09-02 04:40:56,291,"Nothing to complain about, but nothing great either.",3
+Karen Potter DDS,2023-09-03 06:07:43,413,Friendly staff.,4
+Ryan Dixon,2023-09-02 15:24:29,422,Frustrating experience.,1
+Aaron Smith,2023-09-01 16:16:12,39,Disastrous visit!,1
+Michael Johnson,2023-09-02 22:55:28,61,Okay for the price.,3
+James Nelson,2023-09-04 15:03:58,304,"Nothing to complain about, but nothing great either.",3
+Michael Lee,2023-09-04 08:08:50,304,Not great.,2
+Ann James,2023-09-04 07:10:35,118,Highly recommended!,5
+Nicholas Lopez,2023-09-01 19:17:30,169,Not great.,2
+Nicole Wong MD,2023-09-02 08:38:34,209,I'll definitely be back.,5
+Hannah Wilson,2023-09-01 08:28:43,155,Perfect ambiance!,5
+Briana Dudley,2023-09-02 19:36:39,8,I'm not impressed.,2
+Brittney Richardson,2023-09-04 09:13:35,140,Not great.,2
+Kenneth Ramirez,2023-09-03 19:55:23,12,Very happy!,5
+Justin Flores,2023-09-03 12:42:57,53,It was fine.,3
+Ashley Cobb,2023-09-03 21:59:27,528,I had a pleasant time.,4
+Heather Tucker,2023-09-01 07:38:07,180,Unpleasant staff.,1
+Sue Garcia,2023-09-01 19:46:41,84,I'm satisfied.,4
+Kenneth Stewart,2023-09-04 23:27:28,51,Had higher expectations.,2
+Kelsey Marsh,2023-09-04 21:35:10,289,Won't be my first choice next time.,2
+Jennifer Howard,2023-09-01 04:56:51,484,I regret coming here.,1
+Robert Harper,2023-09-01 07:01:06,226,Okay for the price.,3
+Isabella Allen,2023-09-03 08:02:50,199,Pretty good!,4
+Joseph King,2023-09-01 17:17:39,340,Better than I expected!,4
+Alyssa Simpson,2023-09-04 03:24:38,248,Pretty good!,4
+Kayla Murphy,2023-09-03 02:01:01,209,Impressive attention to detail.,5
+Christine Wagner,2023-09-04 02:40:32,224,I regret coming here.,1
+Megan Gonzalez,2023-09-02 23:25:16,324,Perfect ambiance!,5
+Randy Rios,2023-09-03 14:47:50,220,Couldn't have been better!,5
+Aaron Heath,2023-09-02 17:13:42,414,Service was decent.,3
+Mark Lynch,2023-09-01 06:02:48,202,Very dissatisfied!,1
+Nicolas Stephens,2023-09-01 18:44:00,484,Mediocre at best.,2
+Larry Ramsey,2023-09-01 06:34:16,130,Service was swift.,4
+Lindsay Bates,2023-09-02 16:24:55,148,The staff went above and beyond.,5
+Renee Sullivan,2023-09-04 07:57:30,17,Typical visit.,3
+Joseph Carroll,2023-09-04 09:07:17,227,Better than I expected!,4
+Eddie Harmon,2023-09-04 09:22:00,23,Couldn't have been better!,5
+Sarah Mann,2023-09-02 22:51:38,114,The worst experience ever!,1
+Michelle May,2023-09-04 15:28:36,344,Will come again.,4
+Diane Black,2023-09-02 08:36:38,315,Frustrating experience.,1
+Angela Armstrong,2023-09-03 17:57:00,111,Could be better.,2
+Alexandra Hansen,2023-09-02 01:07:27,316,Had higher expectations.,2
+Amy Lambert,2023-09-01 18:14:23,527,Not great.,2
+Scott Jackson,2023-09-01 23:45:07,314,I'd recommend this to a friend.,4
+Bridget Torres,2023-09-01 14:55:13,203,Quite enjoyable!,4
+Catherine Turner,2023-09-01 17:27:58,196,Friendly staff.,4
+Cynthia Elliott,2023-09-02 06:24:19,5,Couldn't have been better!,5
+Drew Whitaker,2023-09-02 01:47:30,462,The worst experience ever!,1
+Ashley Shah,2023-09-03 17:49:46,25,Quite enjoyable!,4
+Susan Vasquez,2023-09-03 07:33:32,189,Frustrating experience.,1
+Mark Lynch,2023-09-03 01:13:53,127,I'll definitely be back.,5
+Julie Smith,2023-09-02 23:29:55,307,Terrible ambiance.,1
+Samantha Wells,2023-09-04 16:33:19,143,Unpleasant staff.,1
+Rose Weaver,2023-09-04 20:07:23,2,Impressive attention to detail.,5
+Kelly Chan,2023-09-03 09:53:23,22,I'm satisfied.,4
+Benjamin Sanford,2023-09-03 11:53:35,408,Friendly staff.,4
+Ashley Gibson,2023-09-01 14:40:22,216,It was okay.,3
+Anthony Kim,2023-09-04 04:45:14,272,Won't come again.,1
+Brian Johns,2023-09-03 19:24:29,238,Average service.,3
+Kimberly Patel,2023-09-01 01:18:39,468,"Staff was okay, service wasn't.",2
+Jeffrey Delgado,2023-09-04 02:10:45,398,Very dissatisfied!,1
+Max Thomas,2023-09-04 03:03:30,62,Terrible ambiance.,1
+Tammy Gonzalez,2023-09-02 00:53:50,394,It was okay.,3
+Tara Flynn,2023-09-01 07:33:12,415,The worst experience ever!,1
+Haley Phillips MD,2023-09-01 18:15:22,12,I'd recommend this to a friend.,4
+Dominic Gilbert,2023-09-03 06:50:49,398,Won't be my first choice next time.,2
+Thomas Daniels,2023-09-01 18:33:08,265,Not great.,2
+Michael Hopkins,2023-09-04 00:24:51,123,Mediocre at best.,2
+Matthew Walker,2023-09-01 11:16:03,324,Mediocre at best.,2
+Scott Tucker,2023-09-03 14:10:40,96,Excellent service!,5
+Steven Wilson DDS,2023-09-01 15:28:50,29,Excellent service!,5
+Stephen King,2023-09-04 21:52:29,534,Not great.,2
+Courtney Thompson,2023-09-03 09:33:37,325,Service was swift.,4
+Ann James,2023-09-04 03:56:04,120,Took too long.,2
+Travis Vargas,2023-09-01 06:00:51,275,Might come back.,3
+Katherine Kramer,2023-09-04 13:47:41,436,Best experience in a while!,5
+Michael Pierce,2023-09-03 05:22:44,262,I'm satisfied.,4
+Sylvia Jones,2023-09-01 08:27:09,373,Average service.,3
+Curtis Martinez,2023-09-03 20:59:16,79,"Nothing to complain about, but nothing great either.",3
+Shannon Green,2023-09-04 10:37:40,28,A bit disappointing.,2
+Joseph Kidd,2023-09-03 18:12:05,471,Won't be my first choice next time.,2
+Zachary Smith,2023-09-03 08:34:12,26,Service was swift.,4
+Russell Avila,2023-09-01 03:32:40,545,Quite enjoyable!,4
+Alan Blake III,2023-09-02 13:49:13,24,Neither good nor bad.,3
+Jason Rosales,2023-09-02 16:51:16,121,I'd recommend this to a friend.,4
+Gerald Trevino,2023-09-03 19:38:54,130,Better than I expected!,4
+Norma Jones,2023-09-01 03:13:52,180,Waste of time.,1
+Mr. Gerald Ramirez Jr.,2023-09-04 23:30:17,504,Had higher expectations.,2
+Robert Harper,2023-09-01 15:27:25,452,Excellent service!,5
+Mr. James Jennings,2023-09-01 02:36:04,380,Unpleasant staff.,1
+Drew Whitaker,2023-09-02 04:12:08,21,Okay for the price.,3
+Norman Flores,2023-09-03 09:39:32,448,Pretty good!,4
+Larry Yang,2023-09-03 08:29:12,248,Neither good nor bad.,3
+Mark Young PhD,2023-09-01 16:32:09,87,Average service.,3
+Carla Graves,2023-09-01 00:10:48,431,Very dissatisfied!,1
+John Holloway,2023-09-01 15:11:48,324,"Staff was okay, service wasn't.",2
+Curtis Walker,2023-09-01 07:13:03,437,The staff went above and beyond.,5
+Monica Stewart,2023-09-04 19:43:30,378,Excellent service!,5
+Paul Torres,2023-09-01 02:00:12,144,Neither good nor bad.,3
+Courtney Kane,2023-09-01 05:47:46,273,Unpleasant staff.,1
+Sylvia Jones,2023-09-02 10:18:15,134,Exceptional service!,5
+Julie Mcneil,2023-09-01 03:22:21,432,"Staff was okay, service wasn't.",2
+Keith Tran,2023-09-01 08:52:05,186,Service was swift.,4
+Gina Rivera,2023-09-02 22:49:46,188,Neither good nor bad.,3
+Patricia Thornton,2023-09-04 07:34:12,182,I had a pleasant time.,4
+Mary Wright,2023-09-02 17:18:00,68,Quite enjoyable!,4
+Cody Cruz,2023-09-01 23:15:49,336,Typical visit.,3
+Joseph Stevens,2023-09-01 01:15:29,413,Terrible ambiance.,1
+Monica Stewart,2023-09-04 12:30:20,357,Neither good nor bad.,3
+Tiffany Grant,2023-09-04 12:09:29,402,I regret coming here.,1
+Darrell Booker,2023-09-01 09:13:39,518,Pretty good!,4
+Mary Wright,2023-09-01 09:20:39,17,The worst experience ever!,1
+Bryan Perkins,2023-09-03 18:09:08,31,A bit disappointing.,2
+Austin Atkins,2023-09-01 20:06:09,129,"Nothing to complain about, but nothing great either.",3
+Kelly Chan,2023-09-01 01:46:33,442,Will come again.,4
+Elizabeth Gonzalez,2023-09-01 18:06:00,527,Waste of time.,1
+Joshua Sullivan,2023-09-02 11:29:23,352,Not great.,2
+Sean Mcdonald,2023-09-03 21:21:26,56,Won't be my first choice next time.,2
+Kayla Murphy,2023-09-01 02:40:22,323,Average service.,3
+Michael Huber,2023-09-02 01:42:58,300,Disastrous visit!,1
+Kelly Williams,2023-09-01 02:50:33,218,Good value for money.,4
+Zachary Hancock,2023-09-03 00:35:52,58,Neither good nor bad.,3
+Robert Harper,2023-09-03 21:36:34,523,Pretty good!,4
+Alexander Tucker,2023-09-01 03:37:28,429,Won't be my first choice next time.,2
+Larry Yang,2023-09-03 04:35:08,223,Wasn't disappointed but wasn't impressed either.,3
+Monica Stewart,2023-09-01 14:04:31,49,Good value for money.,4
+Bianca Smith,2023-09-02 13:37:09,108,I had a pleasant time.,4
+John Leblanc,2023-09-01 07:17:48,6,Highly recommended!,5
+Gregory Flores,2023-09-02 16:03:46,275,Won't be my first choice next time.,2
+Anthony White,2023-09-02 15:00:32,522,Excellent service!,5
+Mariah Sweeney,2023-09-01 17:20:25,533,Had higher expectations.,2
+Pamela Golden,2023-09-03 04:59:19,190,I'm satisfied.,4
+Tonya King,2023-09-02 17:36:57,361,I regret coming here.,1
+Alisha Jackson,2023-09-03 09:05:35,465,Won't come again.,1
+Jamie Patel,2023-09-02 08:32:34,461,Very happy!,5
+Sue Garcia,2023-09-04 09:23:03,350,Perfect ambiance!,5
+Laura Obrien,2023-09-04 21:59:40,63,Won't come again.,1
+Chad Dean,2023-09-01 16:08:25,544,Service was swift.,4
+Maxwell Dougherty,2023-09-03 07:27:09,169,Okay for the price.,3
+Matthew Romero,2023-09-04 05:40:27,376,I regret coming here.,1
+Diane Walker,2023-09-02 02:46:30,245,Friendly staff.,4
+Tasha Brooks,2023-09-04 12:40:27,527,"Staff was okay, service wasn't.",2
+Amy Rodriguez,2023-09-01 22:46:35,335,Impressive attention to detail.,5
+Anthony Kim,2023-09-03 05:34:14,67,Unpleasant staff.,1
+Kyle Carrillo,2023-09-04 18:22:45,239,Neither good nor bad.,3
+Mary Noble,2023-09-03 22:54:10,85,Very happy!,5
+Deborah Mclean,2023-09-01 22:03:54,363,I had a pleasant time.,4
+Stephanie Nguyen,2023-09-01 11:10:39,204,Wasn't disappointed but wasn't impressed either.,3
+Anthony Howard,2023-09-02 00:02:05,134,Expected better.,2
+Ian Harris,2023-09-01 17:53:38,78,Impressive attention to detail.,5
+Sean Wilson DDS,2023-09-03 19:12:59,30,Excellent service!,5
+Miss Vanessa Hernandez,2023-09-02 08:35:53,385,I'm not impressed.,2
+Michelle Humphrey,2023-09-02 11:12:53,91,Waste of time.,1
+Mr. Matthew Duncan,2023-09-01 11:42:55,330,"Staff was okay, service wasn't.",2
+Austin Atkins,2023-09-03 01:13:46,417,Very happy!,5
+Victoria Clark,2023-09-04 14:01:01,254,Service was decent.,3
+Mark Alvarado,2023-09-03 07:01:35,176,Disastrous visit!,1
+Victoria Clark,2023-09-01 10:55:38,323,Couldn't have been better!,5
+Rodney Gutierrez,2023-09-01 19:44:48,20,"Staff was okay, service wasn't.",2
+Samantha Smith,2023-09-03 19:16:12,174,Will come again.,4
+Justin Roberts,2023-09-03 22:54:44,303,Couldn't have been better!,5
+Joshua Watson,2023-09-01 06:53:51,305,I had a pleasant time.,4
+William Palmer,2023-09-04 18:22:00,77,Could be better.,2
+Michael Carter,2023-09-02 00:40:42,438,Very dissatisfied!,1
+Robert Hicks,2023-09-04 23:06:48,275,Impressive attention to detail.,5
+Gerald Delacruz,2023-09-03 20:43:34,71,Better than I expected!,4
+Stephanie Rowe,2023-09-04 00:19:42,144,Typical visit.,3
+Ashley Love,2023-09-01 05:31:24,374,Not great.,2
+Anthony Wilson,2023-09-03 14:26:32,85,I regret coming here.,1
+Christina Dean,2023-09-04 15:53:27,518,Will come again.,4
+Alan Blake III,2023-09-02 17:44:34,411,Terrible ambiance.,1
+Julie Mcneil,2023-09-01 19:48:58,423,Pretty good!,4
+Lonnie Contreras,2023-09-02 15:45:07,68,Might come back.,3
+Stephanie Bell,2023-09-04 12:30:11,517,Okay for the price.,3
+Jordan Beard,2023-09-04 11:44:36,261,"Staff was okay, service wasn't.",2
+Henry Mcintyre PhD,2023-09-02 03:27:34,508,I'm satisfied.,4
+Karen Lucas MD,2023-09-04 17:15:16,366,Typical visit.,3
+Timothy Small,2023-09-02 12:31:20,106,Good value for money.,4
+Robin Cook,2023-09-04 06:14:23,264,Disastrous visit!,1
+Tammy Gonzalez,2023-09-02 23:56:00,425,Perfect ambiance!,5
+Christina Barker,2023-09-01 13:09:35,503,Service was decent.,3
+Anthony White,2023-09-02 08:00:38,459,The worst experience ever!,1
+Rachel Flowers,2023-09-04 11:43:34,194,Couldn't have been better!,5
+Donna Palmer,2023-09-04 05:28:07,355,Won't be my first choice next time.,2
+Victoria Ramsey,2023-09-01 09:54:35,199,I'm not impressed.,2
+Michael Christensen,2023-09-04 15:39:02,39,Better than I expected!,4
+Chad Nguyen,2023-09-03 13:16:28,425,Very dissatisfied!,1
+Daniel Miller,2023-09-02 05:28:19,266,Horrible service!,1
+Stephen Guzman,2023-09-02 12:11:20,453,Expected better.,2
+Nicole Fuentes,2023-09-04 07:39:20,171,Best experience in a while!,5
+Amy Johnson,2023-09-02 00:49:33,532,Quite enjoyable!,4
+Marc Butler,2023-09-03 03:07:33,337,I had a pleasant time.,4
+Grant Johnson,2023-09-02 12:28:39,394,Took too long.,2
+John Wells,2023-09-04 11:23:02,140,I'm satisfied.,4
+Lonnie Contreras,2023-09-01 15:43:47,441,Disastrous visit!,1
+James Adams,2023-09-02 17:09:10,238,Service was swift.,4
+Amanda Cortez,2023-09-01 03:19:31,381,Mediocre at best.,2
+Kenneth Smith,2023-09-04 08:59:41,196,I'm satisfied.,4
+Kelsey Peck,2023-09-02 07:46:55,158,A bit disappointing.,2
+Thomas Johnson,2023-09-04 21:06:52,480,Couldn't have been better!,5
+Travis Stephens,2023-09-02 01:33:52,142,Will come again.,4
+Paul Torres,2023-09-01 22:37:32,95,I had a pleasant time.,4
+Mr. Daniel Coleman,2023-09-03 12:02:10,275,I'm satisfied.,4
+Heather Tucker,2023-09-01 10:03:35,223,Wasn't disappointed but wasn't impressed either.,3
+Ricardo Miller,2023-09-03 10:59:41,61,I'd recommend this to a friend.,4
+Samuel Cabrera,2023-09-04 21:30:37,510,Waste of time.,1
+Cory Martin DVM,2023-09-04 06:13:14,7,Highly recommended!,5
+Chad Carpenter,2023-09-03 04:23:40,228,Wasn't disappointed but wasn't impressed either.,3
+Justin Baker,2023-09-04 05:12:23,495,Average service.,3
+Dylan Ibarra,2023-09-04 00:19:55,485,Had higher expectations.,2
+Russell Avila,2023-09-03 09:38:18,9,Disastrous visit!,1
+Ryan Nelson,2023-09-03 10:41:55,163,Mediocre at best.,2
+Daniel Jones,2023-09-01 22:36:25,141,Expected better.,2
+Lisa Rose,2023-09-03 12:56:24,365,Neither good nor bad.,3
+Daniel Miller,2023-09-02 21:11:40,499,Wasn't disappointed but wasn't impressed either.,3
+Mary Wright,2023-09-03 09:45:09,505,Typical visit.,3
+Tasha Brooks,2023-09-04 10:42:31,138,"Nothing to complain about, but nothing great either.",3
+Nicole Johnson,2023-09-04 18:48:31,159,Highly recommended!,5
+Matthew Romero,2023-09-01 09:31:56,48,I'm satisfied.,4
+Kimberly Patel,2023-09-03 09:00:14,156,Unpleasant staff.,1
+Carolyn Myers,2023-09-01 07:56:36,304,Disastrous visit!,1
+Edward Perry,2023-09-01 07:55:55,526,Expected better.,2
+Gary Parsons,2023-09-03 12:28:43,131,I'm not impressed.,2
+Kelly Foster,2023-09-01 01:02:58,26,Very dissatisfied!,1
+Dennis Anthony,2023-09-02 00:26:06,117,Not great.,2
+Stephen Delgado,2023-09-01 08:30:02,254,Good value for money.,4
+John Stokes,2023-09-04 22:58:53,522,Will come again.,4
+Scott Tucker,2023-09-04 22:43:50,308,I had a pleasant time.,4
+Chase Weeks,2023-09-02 16:27:28,463,Exceptional service!,5
+Tracey Gutierrez,2023-09-03 03:24:59,304,I'm satisfied.,4
+Stephanie King,2023-09-02 16:27:40,241,Expected better.,2
+Angela Richards,2023-09-02 13:36:31,160,Very happy!,5
+Gary Parsons,2023-09-01 01:08:35,394,A bit disappointing.,2
+Chad Carpenter,2023-09-03 02:40:56,458,Exceptional service!,5
+Monique Skinner,2023-09-03 20:41:29,549,Quite enjoyable!,4
+Marvin Holt,2023-09-03 19:29:55,517,Not great.,2
+Thomas Green,2023-09-04 02:57:46,174,I had a pleasant time.,4
+Gerald Wheeler,2023-09-01 06:49:17,371,Could be better.,2
+Jason Oneill,2023-09-02 12:30:15,365,Will come again.,4
+Denise Fernandez,2023-09-04 11:29:30,67,Exceptional service!,5
+Mr. Daniel Coleman,2023-09-01 12:04:10,47,I'd recommend this to a friend.,4
+Ryan Oconnor,2023-09-03 12:05:58,480,Will come again.,4
+Dawn Gates,2023-09-01 07:29:52,155,Service was decent.,3
+Kathleen Dunn,2023-09-04 00:32:55,42,Disastrous visit!,1
+Max Thomas,2023-09-02 16:32:06,193,I regret coming here.,1
+William Palmer,2023-09-03 08:05:41,197,Couldn't have been better!,5
+Nicole Phillips,2023-09-04 19:30:36,207,Quite enjoyable!,4
+Nathan Lucas,2023-09-04 18:28:30,318,It was fine.,3
+Alison Bradley,2023-09-02 00:22:58,184,Could be better.,2
+Amy Daniels,2023-09-03 03:47:36,240,Won't be my first choice next time.,2
+Dr. Roger Nelson,2023-09-04 08:18:32,160,Neither good nor bad.,3
+Michael Carter,2023-09-03 00:36:12,174,It was fine.,3
+Michelle Humphrey,2023-09-03 08:00:54,202,Best experience in a while!,5
+Tammy Gonzalez,2023-09-01 22:04:09,447,Very happy!,5
+Daniel Winters,2023-09-02 16:47:56,19,It was fine.,3
+Patricia Barnes,2023-09-01 16:31:14,202,Exceptional service!,5
+Felicia Tanner,2023-09-01 00:09:33,156,Took too long.,2
+Bruce Rogers,2023-09-04 09:23:55,381,Won't come again.,1
+Isaac Garcia,2023-09-01 20:04:30,443,It was fine.,3
+Brittney Richardson,2023-09-01 22:59:38,143,Won't come again.,1
+Mark Cardenas,2023-09-03 03:34:58,376,Exceptional service!,5
+Douglas Mccann,2023-09-02 01:24:55,192,Excellent service!,5
+Victoria Ramsey,2023-09-01 13:16:13,397,Service was decent.,3
+Joshua Williams,2023-09-03 10:49:56,87,Could be better.,2
+Douglas Brown,2023-09-02 01:42:03,201,It was fine.,3
+Kristine Roberts,2023-09-01 04:58:18,345,I'd recommend this to a friend.,4
+Tony Kerr,2023-09-03 04:58:15,122,Service was swift.,4
+Melissa Cruz,2023-09-02 18:25:25,159,Won't be my first choice next time.,2
+Victoria Walker,2023-09-04 14:23:43,312,I'd recommend this to a friend.,4
+Patricia Williams,2023-09-03 01:56:23,490,Service was decent.,3
+John Holloway,2023-09-01 14:03:00,188,Could be better.,2
+James Blevins,2023-09-04 05:28:09,526,Won't be my first choice next time.,2
+Dylan Silva,2023-09-01 01:37:03,165,I'm not impressed.,2
+Robert Harper,2023-09-01 20:45:04,415,Waste of time.,1
+Curtis Lopez,2023-09-02 19:19:04,415,Couldn't have been better!,5
+Anthony Garcia,2023-09-01 07:21:13,528,Had higher expectations.,2
+Austin Atkins,2023-09-02 00:28:41,341,Pretty good!,4
+Michelle Orozco,2023-09-01 13:25:04,75,It was fine.,3
+Jeremiah Perez,2023-09-03 19:14:36,380,I'll definitely be back.,5
+Mike Rodriguez,2023-09-03 04:04:21,230,Average service.,3
+Lindsey Johnson,2023-09-04 17:13:20,299,Might come back.,3
+Devin Hicks,2023-09-02 21:39:11,451,Okay for the price.,3
+Bryan Perkins,2023-09-03 19:03:02,469,"Staff was okay, service wasn't.",2
+Nicole Brown,2023-09-03 15:55:55,503,Unpleasant staff.,1
+Brandon Nichols,2023-09-01 16:31:40,386,Mediocre at best.,2
+John Holloway,2023-09-03 21:13:09,270,Exceptional service!,5
+James Wilson,2023-09-04 07:52:44,215,Impressive attention to detail.,5
+Amanda Cortez,2023-09-02 20:45:43,199,Very happy!,5
+Dustin Stephens,2023-09-01 04:19:23,506,Best experience in a while!,5
+Kyle Carrillo,2023-09-03 11:42:07,411,Won't come again.,1
+Miss Melissa Perez,2023-09-04 03:34:33,107,Expected better.,2
+Jose Holmes,2023-09-03 09:46:33,234,Wasn't disappointed but wasn't impressed either.,3
+Steven Wilson DDS,2023-09-04 03:33:41,151,A bit disappointing.,2
+John Holloway,2023-09-04 10:20:00,410,I'd recommend this to a friend.,4
+Gina Ray,2023-09-02 13:48:32,65,It was fine.,3
+Tyler Ryan,2023-09-04 11:42:56,269,Frustrating experience.,1
+Kathryn Henry DVM,2023-09-03 20:49:59,244,Best experience in a while!,5
+Rebecca Wilson DVM,2023-09-02 07:29:27,256,Best experience in a while!,5
+Christine Wagner,2023-09-01 16:03:03,106,Took too long.,2
+Christopher Fletcher,2023-09-01 03:23:50,184,The worst experience ever!,1
+Jennifer Stark,2023-09-02 11:16:50,479,Expected better.,2
+Curtis Lopez,2023-09-02 14:29:55,274,I'll definitely be back.,5
+Zachary Thompson,2023-09-03 18:25:57,534,Service was swift.,4
+Austin Griffith,2023-09-01 06:52:17,3,A bit disappointing.,2
+Stacy Marquez,2023-09-01 14:28:26,443,Service was swift.,4
+Jesus Griffin,2023-09-01 04:31:08,531,I'm satisfied.,4
+Walter Palmer,2023-09-02 01:29:34,430,Highly recommended!,5
+Sandra Bowen,2023-09-01 11:02:58,304,Mediocre at best.,2
+Dennis Anthony,2023-09-01 11:36:25,279,Good value for money.,4
+Ryan Lewis,2023-09-04 17:07:55,165,I had a pleasant time.,4
+Jennifer Stark,2023-09-04 21:10:35,218,Won't come again.,1
+Christy Mendoza,2023-09-02 05:23:48,404,Typical visit.,3
+Ashley Shah,2023-09-01 19:23:45,282,Average service.,3
+Sandra Taylor,2023-09-03 21:46:25,229,Best experience in a while!,5
+Brendan Owen,2023-09-03 09:00:28,393,Had higher expectations.,2
+Cynthia Brown,2023-09-04 12:52:04,398,Better than I expected!,4
+John Holloway,2023-09-03 05:55:33,166,I had a pleasant time.,4
+Travis Vargas,2023-09-03 00:49:05,110,Service was decent.,3
+Cody Cruz,2023-09-03 06:04:48,327,"Staff was okay, service wasn't.",2
+Amy Flowers,2023-09-01 10:18:57,113,Won't come again.,1
+Rachel Melton,2023-09-02 13:47:58,412,Took too long.,2
+Samuel Cabrera,2023-09-04 15:50:27,421,Average service.,3
+Bridget Torres,2023-09-04 01:53:52,17,Very happy!,5
+Stephanie King,2023-09-02 02:49:10,512,Perfect ambiance!,5
+Suzanne Flores,2023-09-01 14:18:38,225,I regret coming here.,1
+Katelyn White,2023-09-04 09:04:56,118,Better than I expected!,4
+Robert Fischer,2023-09-02 12:07:01,536,A bit disappointing.,2
+Victoria Fleming,2023-09-03 20:54:20,283,Very happy!,5
+Donna Palmer,2023-09-03 23:38:22,515,Wasn't disappointed but wasn't impressed either.,3
+Amber Jensen,2023-09-01 11:02:55,335,Excellent service!,5
+Michael Baker,2023-09-02 00:18:31,77,I'm not impressed.,2
+Jared Hodge,2023-09-01 01:20:20,493,It was okay.,3
+Stephen Wilson,2023-09-02 23:07:35,179,Neither good nor bad.,3
+Grant Johnson,2023-09-01 02:11:37,507,The staff went above and beyond.,5
+Lindsey Johnson,2023-09-01 13:07:13,431,I'm not impressed.,2
+Travis Johnson,2023-09-02 11:49:11,235,Service was decent.,3
+Steven Wilson DDS,2023-09-04 03:12:49,159,Better than I expected!,4
+Lauren Castro,2023-09-01 07:53:22,430,"Nothing to complain about, but nothing great either.",3
+Cynthia Parker,2023-09-03 12:50:31,115,Will come again.,4
+Alyssa Simpson,2023-09-04 13:41:04,285,Couldn't have been better!,5
+Angela Richards,2023-09-02 20:00:58,142,Terrible ambiance.,1
+Tammy Glass,2023-09-02 05:07:26,363,Typical visit.,3
+Mark Young PhD,2023-09-04 09:27:44,188,"Nothing to complain about, but nothing great either.",3
+Mary Gonzalez,2023-09-01 19:51:00,426,I'll definitely be back.,5
+Joseph King,2023-09-02 17:32:03,517,Won't come again.,1
+Jeffrey Bauer,2023-09-04 04:33:13,396,Unpleasant staff.,1
+Nicole Phillips,2023-09-02 01:45:45,358,Might come back.,3
+Samuel Spencer,2023-09-01 19:42:45,266,Good value for money.,4
+Beverly James,2023-09-01 21:08:33,491,Okay for the price.,3
+William Johnson,2023-09-03 20:06:48,252,Could be better.,2
+Adam Cantu,2023-09-02 12:20:42,539,Very dissatisfied!,1
+Douglas Mccann,2023-09-02 07:48:12,311,Typical visit.,3
+Zachary Villa,2023-09-03 14:38:34,338,Won't come again.,1
+Natalie Rubio,2023-09-03 11:31:27,127,Terrible ambiance.,1
+Sue Garcia,2023-09-02 11:50:25,405,Good value for money.,4
+Logan Clark,2023-09-04 03:05:06,335,Might come back.,3
+Isabella Allen,2023-09-04 22:43:31,467,Average service.,3
+Kathy Weaver,2023-09-04 23:35:40,537,The worst experience ever!,1
+Christy Mendoza,2023-09-04 04:18:55,332,Excellent service!,5
+Karen Hurley,2023-09-04 08:42:51,426,A bit disappointing.,2
+Amy Rodriguez,2023-09-01 07:17:27,275,A bit disappointing.,2
+Joshua Ramos,2023-09-04 11:42:18,39,Typical visit.,3
+Samantha Hughes DDS,2023-09-04 20:22:47,381,The staff went above and beyond.,5
+Nancy Gregory,2023-09-02 05:22:04,369,Okay for the price.,3
+Tonya King,2023-09-02 20:49:40,368,Had higher expectations.,2
+Victoria Fleming,2023-09-01 11:11:23,33,A bit disappointing.,2
+Joseph Kidd,2023-09-01 13:57:10,279,I'm satisfied.,4
+Christine Sloan,2023-09-04 19:49:52,423,Horrible service!,1
+Michael Anderson,2023-09-03 11:34:03,1,Mediocre at best.,2
+Mark Webster,2023-09-02 23:45:49,261,Unpleasant staff.,1
+Tracy Fox,2023-09-03 19:38:03,202,"Nothing to complain about, but nothing great either.",3
+Katelyn White,2023-09-01 04:30:58,76,Pretty good!,4
+Amanda Rodgers,2023-09-03 18:04:13,439,Friendly staff.,4
+Mr. Matthew Spears,2023-09-04 13:34:36,213,I'll definitely be back.,5
+James Hardy,2023-09-03 13:51:34,110,Highly recommended!,5
+David Casey,2023-09-04 17:29:40,437,Friendly staff.,4
+Diane Snyder,2023-09-04 15:08:43,148,Okay for the price.,3
+Jennifer Mcfarland,2023-09-04 16:19:39,137,Excellent service!,5
+Victor Aguilar,2023-09-04 04:22:00,305,Exceptional service!,5
+Katherine Harris,2023-09-04 03:58:26,296,I'll definitely be back.,5
+Sarah Lewis,2023-09-02 17:21:34,47,It was okay.,3
+Chad Carpenter,2023-09-04 17:55:16,50,Friendly staff.,4
+Amanda Davis,2023-09-02 22:42:16,206,Service was swift.,4
+Julie Mcneil,2023-09-02 03:59:42,499,Exceptional service!,5
+Cheryl Boyd,2023-09-04 10:47:27,296,Pretty good!,4
+John Koch,2023-09-02 14:53:51,366,Best experience in a while!,5
+Randy Clarke,2023-09-04 14:30:18,118,Perfect ambiance!,5
+Dominic Gilbert,2023-09-01 16:10:20,526,Unpleasant staff.,1
+Grant Johnson,2023-09-01 13:26:07,412,I'll definitely be back.,5
+Kimberly Whitney,2023-09-02 20:20:08,315,Friendly staff.,4
+Adam Cantu,2023-09-03 06:23:33,128,Mediocre at best.,2
+Sandra Taylor,2023-09-04 03:06:22,262,Horrible service!,1
+Anthony Hicks,2023-09-02 14:01:57,89,Might come back.,3
+Haley Payne,2023-09-04 14:37:53,105,I'm not impressed.,2
+Kathleen Dunn,2023-09-04 15:08:16,296,Quite enjoyable!,4
+Victoria Fleming,2023-09-03 11:46:44,159,Typical visit.,3
+Amy Daniels,2023-09-01 22:47:10,280,Wasn't disappointed but wasn't impressed either.,3
+Jeffrey White,2023-09-03 13:08:32,220,Good value for money.,4
+Nicole Brown,2023-09-02 14:13:06,537,Better than I expected!,4
+Chris Gonzalez,2023-09-01 04:03:06,33,Mediocre at best.,2
+Julian Jimenez,2023-09-02 16:00:29,137,I'm not impressed.,2
+Julie Mcneil,2023-09-02 21:42:42,229,Very dissatisfied!,1
+Steven Gardner,2023-09-02 19:42:10,336,Had higher expectations.,2
+Kimberly Stephenson,2023-09-02 21:03:14,406,Expected better.,2
+Regina Black,2023-09-03 07:20:10,221,Good value for money.,4
+Dylan Ibarra,2023-09-04 01:04:31,369,I had a pleasant time.,4
+Joshua Estrada,2023-09-02 04:27:23,152,Very happy!,5
+Ryan Hoffman,2023-09-02 06:33:02,217,Mediocre at best.,2
+John Holloway,2023-09-02 04:25:56,105,I'll definitely be back.,5
+Amanda Davis,2023-09-01 00:18:30,52,Excellent service!,5
+Victoria Clark,2023-09-01 20:31:37,8,Excellent service!,5
+David Hughes,2023-09-01 18:32:20,97,Unpleasant staff.,1
+Steven Proctor,2023-09-02 00:56:41,11,Wasn't disappointed but wasn't impressed either.,3
+Joshua Edwards,2023-09-01 11:55:17,445,I'll definitely be back.,5
+Angela Anderson,2023-09-03 05:24:01,61,Best experience in a while!,5
+Jennifer Adams,2023-09-01 09:12:13,419,Expected better.,2
+Nancy Gregory,2023-09-02 17:33:52,81,It was fine.,3
+Stephen Camacho,2023-09-02 10:01:32,190,A bit disappointing.,2
+Shawn Smith,2023-09-03 03:57:35,107,Impressive attention to detail.,5
+Joshua Lee,2023-09-03 19:42:46,190,A bit disappointing.,2
+Stephanie Fox,2023-09-04 07:05:06,414,It was okay.,3
+Joseph Stevens,2023-09-03 14:07:57,269,A bit disappointing.,2
+Nicholas Wood,2023-09-02 17:39:13,27,Better than I expected!,4
+Michael Carter,2023-09-01 21:22:23,111,I'm satisfied.,4
+Laurie Young,2023-09-03 13:02:08,127,Service was decent.,3
+Dawn Gates,2023-09-03 22:30:49,237,Neither good nor bad.,3
+Matthew Cole,2023-09-01 19:22:31,432,A bit disappointing.,2
+Erin Hall,2023-09-01 07:13:35,210,Horrible service!,1
+Dr. Traci Gordon,2023-09-02 13:17:21,467,Won't be my first choice next time.,2
+Joshua Williams,2023-09-03 19:15:56,26,Waste of time.,1
+Tracy Fox,2023-09-01 17:23:38,479,I'm satisfied.,4
+Catherine Olson,2023-09-03 04:03:19,338,Wasn't disappointed but wasn't impressed either.,3
+Walter Palmer,2023-09-03 03:58:06,175,Service was swift.,4
+Katelyn White,2023-09-01 07:36:38,271,Perfect ambiance!,5
+Laura Obrien,2023-09-01 18:49:25,507,Exceptional service!,5
+Haley Phillips MD,2023-09-04 00:46:04,52,Friendly staff.,4
+Nathan Hanna MD,2023-09-02 20:52:58,124,I'd recommend this to a friend.,4
+Mike Suarez,2023-09-02 10:50:47,16,A bit disappointing.,2
+Crystal Moore,2023-09-02 06:13:16,446,Best experience in a while!,5
+Pamela Davis,2023-09-02 06:38:00,305,Okay for the price.,3
+Jeremy Jones,2023-09-04 15:24:49,225,Impressive attention to detail.,5
+Lauren Olson,2023-09-02 05:28:58,277,Very happy!,5
+Bianca Smith,2023-09-04 19:40:03,534,A bit disappointing.,2
+Michelle Barrera,2023-09-01 02:10:42,478,Will come again.,4
+Megan Carter,2023-09-03 08:33:23,262,Terrible ambiance.,1
+Derek Beck,2023-09-03 01:48:36,455,Good value for money.,4
+Chris Gonzalez,2023-09-02 22:19:35,308,Typical visit.,3
+Kelsey Peck,2023-09-03 08:47:10,528,"Staff was okay, service wasn't.",2
+Samuel Cabrera,2023-09-01 21:36:04,454,Will come again.,4
+Michael Carter,2023-09-02 11:48:12,214,Okay for the price.,3
+Mariah Sweeney,2023-09-03 05:10:09,392,Pretty good!,4
+Kelly Evans,2023-09-02 15:38:44,496,It was fine.,3
+Jack Frederick,2023-09-03 08:03:30,489,Okay for the price.,3
+Stephanie Sanders,2023-09-04 14:20:07,416,Won't come again.,1
+Michelle Parsons,2023-09-03 06:53:49,522,Unpleasant staff.,1
+Joseph King,2023-09-02 20:26:04,260,I'll definitely be back.,5
+Michelle Williams,2023-09-04 11:23:54,346,Good value for money.,4
+Melissa Cruz,2023-09-01 03:09:53,520,Could be better.,2
+Amanda Porter,2023-09-03 20:36:05,322,Not great.,2
+Christine Sloan,2023-09-03 23:06:02,218,The worst experience ever!,1
+Gene Silva,2023-09-03 04:42:52,75,Very dissatisfied!,1
+Miss Melissa Perez,2023-09-01 15:20:19,510,Okay for the price.,3
+Sandra Taylor,2023-09-03 16:57:26,24,Wasn't disappointed but wasn't impressed either.,3
+Joshua Edwards,2023-09-03 09:13:32,201,Service was swift.,4
+Angela Sanchez,2023-09-01 08:44:12,488,Highly recommended!,5
+Anthony Fox,2023-09-02 04:08:17,193,Best experience in a while!,5
+Jeffrey Delgado,2023-09-01 00:25:40,75,Pretty good!,4
+Darryl Walls,2023-09-04 15:38:43,244,I'll definitely be back.,5
+David Dickson,2023-09-01 19:09:22,68,I'm satisfied.,4
+James Meza,2023-09-02 16:25:28,353,I had a pleasant time.,4
+Angela Sanchez,2023-09-04 20:12:45,138,Average service.,3
+Sharon Davis,2023-09-02 12:04:27,404,Terrible ambiance.,1
+Kelly Jimenez,2023-09-04 03:23:40,344,Mediocre at best.,2
+Melissa Whitehead,2023-09-04 23:53:10,341,Waste of time.,1
+Mariah Sweeney,2023-09-01 19:56:03,7,Impressive attention to detail.,5
+Stephanie Nguyen,2023-09-01 18:00:32,39,Service was decent.,3
+Zachary Thompson,2023-09-01 05:52:15,5,I'm satisfied.,4
+Courtney Johnson,2023-09-03 15:09:47,390,I'd recommend this to a friend.,4
+Kristine Roberts,2023-09-03 19:09:40,227,It was fine.,3
+Tammy Simpson,2023-09-04 00:03:21,194,Best experience in a while!,5
+Diane Walker,2023-09-02 21:17:23,431,Mediocre at best.,2
+Tracy Fox,2023-09-03 11:11:30,190,Took too long.,2
+Jacqueline Barnes,2023-09-04 15:35:54,433,Impressive attention to detail.,5
+Jennifer Martin,2023-09-03 18:27:09,228,I'll definitely be back.,5
+Tricia Kelly,2023-09-03 03:09:28,299,Highly recommended!,5
+Christine Smith,2023-09-02 22:13:39,450,Very dissatisfied!,1
+Joseph Barnes,2023-09-04 20:19:45,530,Won't be my first choice next time.,2
+Jack Sparks,2023-09-02 16:30:44,162,I had a pleasant time.,4
+Diane Snyder,2023-09-04 22:49:02,186,Mediocre at best.,2
+Mike Rodriguez,2023-09-01 23:10:06,125,Best experience in a while!,5
+Matthew Ayala,2023-09-01 03:06:31,47,Disastrous visit!,1
+Tamara Page,2023-09-01 13:54:10,240,Might come back.,3
+Lindsay Bates,2023-09-02 16:51:00,364,Exceptional service!,5
+Mary Collins,2023-09-03 17:11:05,526,I'm not impressed.,2
+Roberto Elliott,2023-09-03 17:47:59,447,Friendly staff.,4
+Alexandra Allen,2023-09-03 10:54:49,476,I'll definitely be back.,5
+James Morris,2023-09-02 20:07:44,504,Took too long.,2
+Kimberly Wolfe,2023-09-04 21:29:31,345,Neither good nor bad.,3
+Alexandra Allen,2023-09-02 16:17:20,311,The worst experience ever!,1
+Robert Riggs,2023-09-03 07:06:00,483,Typical visit.,3
+Daniel Winters,2023-09-04 04:35:43,302,Disastrous visit!,1
+Darryl Walls,2023-09-03 19:39:31,416,Very dissatisfied!,1
+Joshua Williams,2023-09-03 06:28:17,454,Impressive attention to detail.,5
+Patricia Williams,2023-09-03 20:21:25,360,Won't come again.,1
+Michael Tran,2023-09-03 14:11:28,51,Best experience in a while!,5
+Matthew Meza,2023-09-02 17:36:30,444,I'm not impressed.,2
+Margaret Perry,2023-09-02 23:29:20,135,Pretty good!,4
+Kevin Martin,2023-09-04 08:00:28,516,Highly recommended!,5
+Marie Dillon,2023-09-03 05:09:03,328,Friendly staff.,4
+Brian Johns,2023-09-03 14:50:57,331,Very happy!,5
+Karen Potter DDS,2023-09-02 14:20:32,476,I'm not impressed.,2
+James Nelson,2023-09-03 01:44:36,532,Okay for the price.,3
+Troy Johns,2023-09-03 12:35:30,91,It was fine.,3
+Melissa Glenn,2023-09-04 08:27:38,299,Okay for the price.,3
+Chad Nguyen,2023-09-02 04:19:21,479,Could be better.,2
+Andrew Ramirez,2023-09-03 12:27:49,278,A bit disappointing.,2
+Matthew Carson,2023-09-02 23:42:45,382,Average service.,3
+Jennifer Fletcher,2023-09-02 11:57:52,195,Service was decent.,3
+Thomas Hughes,2023-09-03 20:21:07,43,Had higher expectations.,2
+Jacqueline Barnes,2023-09-03 23:58:09,202,Perfect ambiance!,5
+William Palmer,2023-09-04 11:52:09,27,Excellent service!,5
+Thomas Lawrence,2023-09-04 05:14:24,207,Will come again.,4
+Stacey Brown,2023-09-03 08:09:28,525,I'll definitely be back.,5
+Matthew Ayala,2023-09-02 18:29:08,336,Couldn't have been better!,5
+John Wells,2023-09-02 11:25:57,156,I regret coming here.,1
+Hannah Dominguez,2023-09-02 15:13:33,429,The staff went above and beyond.,5
+Katie Cooper,2023-09-04 20:17:11,78,Very happy!,5
+Christina Jackson,2023-09-04 23:02:35,356,The worst experience ever!,1
+Alison Mills,2023-09-04 03:40:09,151,Will come again.,4
+Michael Christensen,2023-09-04 00:35:24,378,It was okay.,3
+Dr. Traci Gordon,2023-09-04 04:53:04,358,Good value for money.,4
+Travis Johnson,2023-09-02 06:53:25,438,Impressive attention to detail.,5
+Gina Ray,2023-09-02 16:04:39,377,Okay for the price.,3
+Nicole Johnson,2023-09-03 01:56:27,509,Very happy!,5
+Marvin Holt,2023-09-03 14:30:13,428,Frustrating experience.,1
+Jennifer Martin,2023-09-01 10:26:16,130,Service was decent.,3
+Michael Baker,2023-09-02 12:22:27,316,A bit disappointing.,2
+Tiffany Juarez,2023-09-03 10:40:05,439,Okay for the price.,3
+Craig Brown,2023-09-02 06:59:08,508,Highly recommended!,5
+Gerald Gonzalez,2023-09-02 05:32:56,342,Disastrous visit!,1
+Cody Cruz,2023-09-01 08:50:03,98,I'm not impressed.,2
+Monique Cisneros,2023-09-03 05:46:05,46,I'm not impressed.,2
+Kimberly Wolfe,2023-09-04 19:42:14,236,Perfect ambiance!,5
+Louis Williams,2023-09-03 13:45:13,310,Excellent service!,5
+Christopher Fletcher,2023-09-01 19:08:47,172,Unpleasant staff.,1
+Kathy Weaver,2023-09-01 12:43:53,526,Couldn't have been better!,5
+Mr. Matthew Duncan,2023-09-01 21:51:37,399,Unpleasant staff.,1
+Susan Miles,2023-09-02 18:11:39,268,I'm satisfied.,4
+Cynthia Ryan,2023-09-03 15:24:35,291,Pretty good!,4
+Christy Mendoza,2023-09-04 11:34:24,41,Neither good nor bad.,3
+Monique Cisneros,2023-09-02 21:59:07,273,The worst experience ever!,1
+Michael Carter,2023-09-02 12:40:07,166,Friendly staff.,4
+Carolyn Myers,2023-09-03 01:22:24,154,Perfect ambiance!,5
+Donna Branch,2023-09-01 23:39:36,403,I'm not impressed.,2
+David Blackwell,2023-09-03 19:39:38,19,Frustrating experience.,1
+Matthew Ali,2023-09-01 09:20:07,205,Service was swift.,4
+Alexis Miller,2023-09-03 23:08:42,397,Horrible service!,1
+Timothy Burns,2023-09-01 17:10:23,256,Average service.,3
+Christine Sloan,2023-09-04 19:26:05,147,Expected better.,2
+Walter Palmer,2023-09-03 21:35:55,292,Typical visit.,3
+Christopher Fletcher,2023-09-02 11:16:26,380,I regret coming here.,1
+Mary Collins,2023-09-04 21:53:08,258,Couldn't have been better!,5
+Christopher Reid,2023-09-02 19:39:42,112,Excellent service!,5
+Cynthia Brown,2023-09-04 23:53:19,527,Disastrous visit!,1
+Lisa Shelton,2023-09-01 17:16:54,91,Exceptional service!,5
+Douglas Mccann,2023-09-03 05:39:16,138,It was fine.,3
+Ryan Dixon,2023-09-04 04:28:35,200,I'll definitely be back.,5
+Melanie Fowler,2023-09-04 11:50:47,19,Exceptional service!,5
+Ricardo Miller,2023-09-02 03:26:01,190,Better than I expected!,4
+Monique Cisneros,2023-09-04 00:28:28,21,Highly recommended!,5
+Mr. Daniel Coleman,2023-09-01 07:40:48,362,Typical visit.,3
+Kelsey Peck,2023-09-04 07:25:05,118,Friendly staff.,4
+Christine Gray,2023-09-01 18:53:58,302,Quite enjoyable!,4
+Rachel Melton,2023-09-04 09:36:29,380,Very dissatisfied!,1
+Louis Valdez,2023-09-03 00:35:45,276,Okay for the price.,3
+James Blevins,2023-09-01 17:46:32,296,Okay for the price.,3
+Steve Martinez,2023-09-01 14:09:58,354,I'll definitely be back.,5
+Elizabeth Hicks,2023-09-03 14:56:23,306,Perfect ambiance!,5
+Justin Flores,2023-09-04 23:37:43,335,Waste of time.,1
+Rebecca Woodward,2023-09-01 08:46:18,26,Waste of time.,1
+Kayla Murphy,2023-09-02 14:30:40,18,Horrible service!,1
+Shelby Hall,2023-09-02 18:47:47,62,It was fine.,3
+Craig Brown,2023-09-04 20:30:26,475,The worst experience ever!,1
+Carla Graves,2023-09-04 21:54:04,299,Disastrous visit!,1
+Walter Palmer,2023-09-01 04:03:40,160,Expected better.,2
+Travis Stephens,2023-09-01 13:46:19,163,Average service.,3
+Amanda Cooper,2023-09-04 07:53:13,413,Impressive attention to detail.,5
+Lisa Sellers,2023-09-02 04:06:14,390,Perfect ambiance!,5
+Tiffany Grant,2023-09-04 16:34:56,56,Impressive attention to detail.,5
+Jennifer Adams,2023-09-03 19:51:43,434,Won't come again.,1
+Justin Flores,2023-09-04 10:07:27,358,Had higher expectations.,2
+Jamie Wiley,2023-09-04 11:24:21,42,Good value for money.,4
+Angela Anderson,2023-09-01 12:26:11,361,Neither good nor bad.,3
+Nicholas Wood,2023-09-02 07:23:27,53,Excellent service!,5
+Ryan Hoffman,2023-09-04 16:39:42,425,Waste of time.,1
+Edward Perry,2023-09-01 18:13:54,37,Took too long.,2
+Stephanie Nguyen,2023-09-03 00:39:25,295,Highly recommended!,5
+Thomas Daniels,2023-09-04 16:24:45,456,I'll definitely be back.,5
+Lindsay Bates,2023-09-03 18:47:06,497,Pretty good!,4
+Mary Gonzalez,2023-09-03 10:27:37,335,Wasn't disappointed but wasn't impressed either.,3
+Lauren Olson,2023-09-04 07:44:17,293,Excellent service!,5
+Robin Cook,2023-09-04 19:40:39,209,Very dissatisfied!,1
+Matthew Carson,2023-09-03 07:24:58,170,Better than I expected!,4
+Max Thomas,2023-09-02 06:30:08,236,I'll definitely be back.,5
+Becky Cruz,2023-09-02 15:01:09,82,"Nothing to complain about, but nothing great either.",3
+Victoria Walker,2023-09-01 06:24:35,201,I regret coming here.,1
+Brooke Short,2023-09-02 10:14:54,158,"Nothing to complain about, but nothing great either.",3
+Matthew Carson,2023-09-02 23:23:33,477,Service was swift.,4
+Lindsey Evans,2023-09-01 17:20:29,472,Had higher expectations.,2
+Regina Black,2023-09-01 19:42:40,466,Average service.,3
+Sue Garcia,2023-09-02 16:23:50,480,Good value for money.,4
+Stephanie King,2023-09-04 15:05:38,208,Frustrating experience.,1
+Jason Rosales,2023-09-01 21:30:35,95,Exceptional service!,5
+Tyler Soto,2023-09-01 01:13:15,120,Frustrating experience.,1
+Alexis Roberson,2023-09-02 18:09:52,37,Terrible ambiance.,1
+Ryan Hoffman,2023-09-04 06:43:21,209,Could be better.,2
+Michael Scott,2023-09-04 21:10:40,527,Perfect ambiance!,5
+Jennifer Martin,2023-09-02 05:00:52,515,"Staff was okay, service wasn't.",2
+Dr. Matthew Brooks III,2023-09-03 09:26:29,202,Excellent service!,5
+Nicole Gross,2023-09-02 19:33:52,307,Friendly staff.,4
+Lisa Shelton,2023-09-04 04:06:36,214,Quite enjoyable!,4
+Lori Hodge,2023-09-01 08:54:21,401,A bit disappointing.,2
+David Dickson,2023-09-02 10:25:19,160,Might come back.,3
+Courtney Coleman,2023-09-03 14:43:01,263,It was fine.,3
+Joshua Edwards,2023-09-01 15:41:22,341,Horrible service!,1
+Michael Jensen,2023-09-04 10:18:20,210,Mediocre at best.,2
+Anthony Avila,2023-09-02 16:52:14,28,Terrible ambiance.,1
+Walter Carr,2023-09-03 09:46:01,468,Average service.,3
+Rachel Flowers,2023-09-04 21:39:10,550,I'm not impressed.,2
+Tammy Glass,2023-09-02 14:22:29,536,Terrible ambiance.,1
+Jessica Salinas,2023-09-03 17:55:29,104,I'm not impressed.,2
+Holly Preston,2023-09-02 19:18:14,235,Terrible ambiance.,1
+Tina Mayo,2023-09-04 20:28:12,246,I'd recommend this to a friend.,4
+Travis Vargas,2023-09-04 12:43:22,447,"Staff was okay, service wasn't.",2
+Curtis Walker,2023-09-02 22:31:28,416,Friendly staff.,4
+Ronald Mcclure,2023-09-03 04:20:34,243,Typical visit.,3
+Zachary Thompson,2023-09-01 15:49:16,151,Won't be my first choice next time.,2
+Kristine Roberts,2023-09-02 07:10:45,304,Service was swift.,4
+Elizabeth Hicks,2023-09-02 14:03:01,153,Impressive attention to detail.,5
+Jay Mills,2023-09-01 11:43:00,500,Could be better.,2
+Alexis Roberson,2023-09-03 10:51:03,229,"Nothing to complain about, but nothing great either.",3
+Zachary Smith,2023-09-02 22:27:22,483,Quite enjoyable!,4
+Kirk Faulkner,2023-09-03 14:51:16,163,Took too long.,2
+Rachael Baker,2023-09-03 09:21:22,56,Frustrating experience.,1
+Alexandra Allen,2023-09-03 23:46:44,214,Could be better.,2
+Michelle Parsons,2023-09-02 10:01:35,302,Took too long.,2
+Alexis Miller,2023-09-04 20:29:44,90,Okay for the price.,3
+Chad Dean,2023-09-04 18:31:14,3,Pretty good!,4
+Diane Black,2023-09-02 05:41:30,410,Good value for money.,4
+Troy Johns,2023-09-03 10:11:00,136,Could be better.,2
+Deborah Mclean,2023-09-01 12:05:02,550,Might come back.,3
+Anthony Hicks,2023-09-01 06:52:49,365,Very dissatisfied!,1
+Cathy Jones,2023-09-02 06:34:28,462,Won't come again.,1
+Christina Davis,2023-09-02 12:18:44,425,A bit disappointing.,2
+Michael Pierce,2023-09-02 18:47:47,328,"Nothing to complain about, but nothing great either.",3
+Christine Sloan,2023-09-04 08:37:08,24,Waste of time.,1
+Brenda Norman,2023-09-03 08:42:20,78,It was fine.,3
+Joseph Green,2023-09-03 08:53:30,240,Good value for money.,4
+Cynthia Baker,2023-09-01 11:54:06,293,Took too long.,2
+Courtney Kane,2023-09-04 06:17:33,337,Impressive attention to detail.,5
+Christina Espinoza,2023-09-02 01:49:30,255,Took too long.,2
+Joshua Watson,2023-09-01 00:50:41,327,Might come back.,3
+Jason Russo,2023-09-03 07:57:40,321,Impressive attention to detail.,5
+James Morris,2023-09-03 03:58:08,2,It was fine.,3
+Donna Branch,2023-09-02 03:07:47,433,Impressive attention to detail.,5
+Jason Rosales,2023-09-01 10:59:00,535,Not great.,2
+Jennifer Stark,2023-09-02 03:09:55,173,It was okay.,3
+Christopher Reid,2023-09-03 02:11:09,262,Had higher expectations.,2
+Stephen Anderson,2023-09-04 19:33:28,407,Could be better.,2
+David Blackwell,2023-09-01 01:34:08,241,Couldn't have been better!,5
+Joshua Owens,2023-09-04 12:07:36,244,Couldn't have been better!,5
+Linda Thompson,2023-09-01 04:10:52,360,"Staff was okay, service wasn't.",2
+Nicole Gross,2023-09-01 20:26:40,161,"Staff was okay, service wasn't.",2
+Rachel Flowers,2023-09-01 13:04:09,233,The worst experience ever!,1
+Danielle Bass,2023-09-04 17:46:35,83,Expected better.,2
+Elizabeth Hicks,2023-09-04 04:12:55,446,Perfect ambiance!,5
+Tammy Simpson,2023-09-02 07:07:01,79,Service was swift.,4
+Martin Hayes,2023-09-02 23:32:54,291,Neither good nor bad.,3
+David King MD,2023-09-01 03:24:41,102,Couldn't have been better!,5
+Dennis Dunn,2023-09-03 06:31:57,150,Excellent service!,5
+Christopher Day,2023-09-03 17:34:55,156,Had higher expectations.,2
+Brian Dickson,2023-09-03 01:54:40,532,Pretty good!,4
+Jay Mills,2023-09-01 05:11:02,141,Waste of time.,1
+Brian Johns,2023-09-04 01:38:15,294,Exceptional service!,5
+Alexis Miller,2023-09-01 21:29:31,386,The staff went above and beyond.,5
+Susan Miles,2023-09-03 22:53:44,257,Highly recommended!,5
+Leslie Henderson,2023-09-02 11:10:27,492,It was okay.,3
+Benjamin Sparks,2023-09-04 21:51:25,541,Best experience in a while!,5
+William Johnson,2023-09-03 10:04:24,545,Quite enjoyable!,4
+Matthew Carson,2023-09-01 03:16:44,125,Perfect ambiance!,5
+Julie Carter,2023-09-03 20:38:12,160,I'm not impressed.,2
+Amanda Simmons,2023-09-03 06:49:00,45,Terrible ambiance.,1
+Veronica Rodriguez,2023-09-03 13:27:43,57,Very dissatisfied!,1
+Erin Hall,2023-09-04 04:33:32,68,Mediocre at best.,2
+Tricia Kelly,2023-09-03 05:48:26,185,Mediocre at best.,2
+Melissa Glenn,2023-09-03 02:13:09,431,Won't come again.,1
+Heather Tucker,2023-09-02 07:54:06,329,Friendly staff.,4
+Leah Nelson,2023-09-04 19:18:51,25,"Nothing to complain about, but nothing great either.",3
+Melinda Parker,2023-09-04 22:06:47,34,Will come again.,4
+Victoria Clark,2023-09-01 17:02:00,455,Expected better.,2
+Jessica Salinas,2023-09-03 22:56:27,387,Perfect ambiance!,5
+Oscar Jackson,2023-09-02 15:16:59,392,Took too long.,2
+Katie Cooper,2023-09-03 00:44:54,528,Frustrating experience.,1
+Stephen Guzman,2023-09-02 20:01:06,222,Couldn't have been better!,5
+Patricia Williams,2023-09-01 14:50:29,547,Had higher expectations.,2
+James Meza,2023-09-02 16:05:17,126,It was fine.,3
+Tammie Torres,2023-09-04 23:46:55,386,Service was decent.,3
+Nancy Callahan,2023-09-04 13:22:14,18,Expected better.,2
+Larry Ramsey,2023-09-04 15:33:28,426,Took too long.,2
+Jeremiah Perez,2023-09-01 15:58:47,337,Quite enjoyable!,4
+Amanda Allen,2023-09-04 13:28:03,90,Won't come again.,1
+Eric Johnson,2023-09-02 10:03:07,383,Very happy!,5
+
